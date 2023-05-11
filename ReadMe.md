@@ -5,17 +5,15 @@ I am your professor Gabi. Some of the context of this "learn with me" is that I 
 
 These [instructions](https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/#installing-superset-locally-using-docker-compose)
 
-- [:white_check_mark:] Docker installed :white_check_mark: <br />
+The steps:
+- Docker installed :white_check_mark: <br />
 - Clone Superset's GitHub Repository :white_check_mark:  <br />
 - Launch Superset via Docker :white_check_mark:  <br />
-- 
+- Log into Superset 
 
-
-
-
-
-
-
+http://localhost:8088
+username: admin
+password: admin
 
 
 
